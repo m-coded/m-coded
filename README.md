@@ -23,7 +23,7 @@ I’m a  **Full‑Stack Web Developer** with strong experience in **PHP (Laravel
 ### 💼 Projects Include:
 - 🧾 payment reminder SaaS app
 - 📋 CRUD dashboards and admin panels
-- 🛍 E-commerce systems with cart & auth
+- 🛍 E-commerce systems with cart & auth including  admin panel 
 - 📡 REST APIs with front-end integrations
 
 ---
