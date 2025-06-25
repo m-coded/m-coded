@@ -29,7 +29,7 @@ I’m a  **Full‑Stack Web Developer** with strong experience in **PHP (Laravel
 ---
 
 📫 **Let’s work together**  
-🔗 [GitHub](https://github.com/m-coded) • [LinkedIn](https://linkedin.com/in/your-link) • • ✉️ marvez@protonmail.com
+🔗 [GitHub](https://github.com/m-coded) •  • • ✉️ marvez@protonmail.com
 
 ---
 
